@@ -1,16 +1,14 @@
-### Hi there 👋
+## console.log('Hola!!🖐, Soy Sebastián)
 
-<!--
-**sebastian-VB/sebastian-VB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente soy estudiante de Ingeniería Informática, me gusta la programación en sus diferentes areas, especialmente programación web y movil, aun estoy dando mis primeros pasos en este mundo y se que sera divertido 😁 y tambien difícil 🤓. Mi lema es:
+> Si puedes imaginarlo, puedes programarlo - Programación ATS.
 
-Here are some ideas to get you started:
+Conocimientos:
+- 💻 HTML, CSS, JavaScript.
+- 🖼 Figma (UI Desing).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades:
+- 👨‍💼👨‍💼 Trabajo en equipo.
+- 🔎 Me gusta aprender nuevas cosas y estar constantemente actualizándome.
+- 💪 Entrego lo mejor de mi en el puesto que esté.
+
