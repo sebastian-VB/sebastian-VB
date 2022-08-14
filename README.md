@@ -4,8 +4,10 @@ Actualmente soy estudiante de Ingeniería Informática, me gusta la programació
 > Si puedes imaginarlo, puedes programarlo - Programación ATS.
 
 Conocimientos:
-- 💻 HTML, CSS, JavaScript.
 - 🖼 Figma (UI Desing).
+- 💻 HTML, CSS, JavaScript.
+- REACT.
+- MySQL.
 
 Habilidades:
 - 👨‍💼👨‍💼 Trabajo en equipo.
