@@ -1,16 +1,13 @@
-## console.log('Hola!!🖐, Soy Sebastián)
+# console.log('Hola!!🖐, Soy Sebastián)
 
-Actualmente soy estudiante de Ingeniería Informática, me gusta la programación en sus diferentes áreas, desarrollo web, móvil, de videojuegos, entre otas, aún estoy dando mis primeros pasos en este mundo y se que será divertido 😁 y también difícil 🤓. Mi lema es:
-> Si puedes imaginarlo, puedes programarlo - Programación ATS.
+Mi lema es:
 
-Conocimientos:
-- 🖼 Figma (UI Desing).
-- 💻 HTML, CSS, JavaScript.
-- REACT.
-- MySQL.
+`SI PUEDES IMAGINARLO, PUEDES PROGRAMARLO` - Programación ATS.
 
-Habilidades:
-- 👨‍💼👨‍💼 Trabajo en equipo.
+Recien inicio mi camino en el mundo de la informática 👨‍🎓👨‍💻💻, no será fácil ni llegaré tan rápido al éxito, pero se que el camino que tendré que recorrer será lo mas emocionante y lleno de nuevos conocimientos y retos que asumir. Manos 🤝 al código!!!
+
+- 👨‍💼👨‍💼 Me gusta trabajar en equipo.
 - 🔎 Me gusta aprender nuevas cosas y estar constantemente actualizándome.
 - 💪 Entrego lo mejor de mí en el puesto que esté.
+- 🤝 Me gusta aprender de las personas que tienen mas experiencia y retroalimentar mi forma de vida.
 
