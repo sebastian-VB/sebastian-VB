@@ -1,4 +1,4 @@
-# console.log('Hola!!🖐, Soy Sebastián)
+# console.log('Hola!!🖐 Soy Sebastián)
 
 Mi lema es:
 
